@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "Vanilla Package", 
+"title": "Vanilla", 
+"version": "MODPACKVERSION", 
+"location": "https://www.lolnet.co.nz/modpack/vanillamanifest.json", 
+"priority": 1
+}
+]
+}

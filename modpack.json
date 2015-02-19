@@ -1,0 +1,15 @@
+{
+  "name": "Vanilla Package",
+  "title": "Vanilla",
+  "gameVersion": "1.8.2",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "config/Vanilla.cfg",
+      "options.txt",
+      "servers.dat"
+    ]
+  }
+}

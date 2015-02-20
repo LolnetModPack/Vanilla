@@ -1,7 +1,7 @@
 {
   "name": "Vanilla Package",
   "title": "Vanilla",
-  "gameVersion": "1.8.2",
+  "gameVersion": "1.8.3",
   "launch": {
     "flags": []
   },

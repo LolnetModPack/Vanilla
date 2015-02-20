@@ -1,7 +1,7 @@
 {
-  "id": "1.8.2",
-  "time": "2015-02-20T04:47:29+13:00",
-  "releaseTime": "2015-02-20T04:47:29+13:00",
+  "id": "1.8.3",
+  "time": "2015-02-21T03:00:09+13:00",
+  "releaseTime": "2015-02-21T03:00:09+13:00",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
   "libraries": [

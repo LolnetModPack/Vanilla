@@ -1,7 +1,7 @@
 {
-  "id": "1.8.4",
-  "time": "2015-04-17T23:37:50+12:00",
-  "releaseTime": "2015-04-17T23:37:50+12:00",
+  "id": "1.8.6",
+  "time": "2015-05-25T22:31:19+12:00",
+  "releaseTime": "2015-05-25T22:31:19+12:00",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
   "libraries": [
@@ -63,7 +63,7 @@
       "name": "com.mojang:authlib:1.5.21"
     },
     {
-      "name": "com.mojang:realms:1.7.14"
+      "name": "com.mojang:realms:1.7.19"
     },
     {
       "name": "org.apache.commons:commons-compress:1.8.1"
